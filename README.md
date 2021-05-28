@@ -1,4 +1,4 @@
-# Electron-express-react-App
+# Electron Express React App Quick Start
 Quick starter for an Electron app using an Express server and React
 
 * [Setup](#setup)
